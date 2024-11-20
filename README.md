@@ -22,7 +22,7 @@ npm run dev
 
 ## Challenges faced
 
-During the development of this provider, we faced several challenges:
+During the development of this App, we faced several challenges:
 
 -Managing complex state: The provider needs to manage multiple states, such as the cart contents, product list, and category filter. This required careful planning and implementation to ensure that the states are updated correctly.
 
@@ -32,13 +32,13 @@ During the development of this provider, we faced several challenges:
 
 To overcome these challenges, we:
 
--Used a state management library: We used React Context API to manage the complex state of the provider. This helped us to keep the state organized and easy to manage.
+-Used a state management: We used React Context API to manage the complex state of the provider. This helped us to keep the state organized and easy to manage.
 
 -Implemented async data handling: We used the useEffect hook to handle async data and implemented a loading state to prevent the app from crashing.
 
 ## Values and Functions
 
-The provider exposes the following values and functions:
+The App has the following values and functions:
 
 handleAddtoCart: a function that adds an item to the cart
 handleRemoveFromCart: a function that removes an item from the cart
