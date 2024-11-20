@@ -59,7 +59,7 @@ isLoading: a boolean indicating whether the data is still loading
 
 ## Images
 
-![image](https://{url})
+![image](https://github.com/Shreshhthh/meraken-assignment/blob/main/Screenshot%20(59).png)
 ![image](https://{url})
 ![image](https://{url})
 ![image](https://{url})
